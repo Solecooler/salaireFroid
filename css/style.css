@@ -43,11 +43,25 @@ input[type="number"] {
     color: #E12C27;
 }
 @media screen and (max-width:440px) {
+    .calculator{
+        margin: 0px auto;
+        padding-right: 70px;
+        border-radius: 5px;
+        font-family: Poppins, sans-serif;
+    }
+    .salarié{
+        display: flex;
+        align-items: center;
+        height: 93px;
+        flex-direction: column;
+        margin-left: -60px;
+    }
     .result{
         font-weight: 600;
-        font-size: 38pt;
+        font-size: 18pt;
     }
     .Enonce{
-        font-size: 38pt;
+        font-size: 18pt;
+        margin: 0;
     }
 }
