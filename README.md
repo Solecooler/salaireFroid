@@ -1,0 +1,1 @@
+Micro web application conçue pour le calcul du salaire d'un employé du BTP travaillant dans le froid, à partir de son salaire initial.<br>Utilisé au sein d'une landing page BTP.<br>Sous licence Solecooler ©
