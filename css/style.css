@@ -3,6 +3,7 @@
 p{
     margin: 0;
 }
+
 .calculator {
     padding-top: 5px;
     border-radius: 5px;
@@ -14,7 +15,7 @@ p{
       height: 30px;
   }
 .Enonce{
-    font-size: 32px;
+    font-size: 28px;
 }
 #initial-value{
     border: none;
@@ -39,7 +40,7 @@ input[type="number"] {
 }
 .result {
     font-weight: bold;
-    font-size: 32px;
+    font-size: 28px;
 }
 #result-value{
     color: #E12C27;
