@@ -15,7 +15,7 @@ p{
       height: 30px;
   }
 .Enonce{
-    font-size: 28px;
+    font-size: 25px;
 }
 #initial-value{
     border: none;
@@ -40,7 +40,7 @@ input[type="number"] {
 }
 .result {
     font-weight: bold;
-    font-size: 27px;
+    font-size: 25px;
 }
 #result-value{
     color: #E12C27;
