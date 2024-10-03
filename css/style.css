@@ -45,7 +45,7 @@ input[type="number"] {
 @media screen and (max-width:440px) {
     .calculator{
         margin: 0px auto;
-        padding-right: 70px;
+        /*padding-right: 70px;*/
         border-radius: 5px;
         font-family: Poppins, sans-serif;
     }
