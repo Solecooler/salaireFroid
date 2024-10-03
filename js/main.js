@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
     inputElement.addEventListener('input', calculateResult);
   
     function calculateResult() {
-      const initialValue = parseFloat(inputElement.value) || 0;
+      const initialValue = parseFloat(inputElement.value);
       const result = initialValue * 1.1; // Augmentation de 10%
-      resultElement.textContent = result.toFixed(2);
+      resultElement.textContent = result.toFixed(1);
     }
   });
