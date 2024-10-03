@@ -40,7 +40,7 @@ input[type="number"] {
 }
 .result {
     font-weight: bold;
-    font-size: 28px;
+    font-size: 27px;
 }
 #result-value{
     color: #E12C27;
