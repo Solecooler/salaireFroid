@@ -57,7 +57,7 @@ input[type="number"] {
     .salarié{
         display: flex;
         align-items: center;
-        height: 110px;
+        height: 100px;
         flex-direction: column;
         margin-left: 0px;
     }
