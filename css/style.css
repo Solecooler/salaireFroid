@@ -68,9 +68,12 @@ input[type="number"] {
         font-size: 17pt;
         margin: 0;
     }
+    .input-group{
+        margin-top: 5px;
+    }
     input[type="number"] {
         width: 65%;
-        padding-bottom: 7px;
+        padding-bottom: 0px !important;
         padding-left: 0px !important;
         border: 1px solid #ccc;
         border-radius: 4px;
